@@ -28,9 +28,9 @@ A fully responsive personal portfolio website showcasing my skills, education, p
 
 - This portfolio is frontend-only; no backend functionality.
 - Projects included in the portfolio:
--- Simon Game
--- Spotify Web Player UI
--- HTML/CSS Mini Projects
--- Get Jokes
--- Get Quotes
--- Personal Portfolio itself
+-> Simon Game
+-> Spotify Web Player UI
+->  HTML/CSS Mini Projects
+-> Get Jokes
+->  Get Quotes
+->  Personal Portfolio itself
