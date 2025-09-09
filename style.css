@@ -63,12 +63,12 @@ nav ul li a:hover { color: #ff6b6b; }
 .tab-content { display: none; padding: 1rem 2rem; max-width: 800px; margin: auto; }
 .tab-content.active { display: block; }
 
-/* Skills Chips */
+/* Skills */
 .skills-chips { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem; margin: 1rem 0; }
 .skills-chips span { background-color: #ff6b6b; color: #fff; padding: 0.5rem 1rem; border-radius: 20px; font-weight: bold; }
 .skills-chips.soft-skills span { background-color: #4caf50; }
 
-/* Projects Grid */
+/* Projects */
 .projects-grid { display: grid; grid-template-columns: repeat(auto-fit,minmax(280px,1fr)); gap: 2rem; }
 .project-card {
   padding: 1.5rem;
@@ -87,3 +87,4 @@ nav ul li a:hover { color: #ff6b6b; }
 /* Footer */
 footer { background: #333;
 }
+
