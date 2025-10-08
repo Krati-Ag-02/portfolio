@@ -1,4 +1,4 @@
-# Personal Portfolio 🌐
+# Krati Agarwal – Portfolio Website
 
 ## Brief Description:
 A fully responsive personal portfolio website showcasing my skills, education, projects, and contact information. Built using HTML, CSS, and JavaScript.
@@ -28,9 +28,9 @@ A fully responsive personal portfolio website showcasing my skills, education, p
 
 - This portfolio is frontend-only; no backend functionality.
 - Projects included in the portfolio:
-    - Simon Game
+    - Color Memory Challenge Game 
     - Spotify Web Player UI
     - HTML/CSS Mini Projects
     - Get Jokes
     - Get Quotes
-    - Personal Portfolio itself
+    - Krati Agarwal – Portfolio Website
